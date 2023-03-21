@@ -12,6 +12,7 @@ export default function Home() {
     <>
       <h1>Hello World</h1>
       <Link href="/profile">Link to profile page!</Link>
+      <h2>H2 Heading</h2>
     </>
   );
 }
