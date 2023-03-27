@@ -5,6 +5,7 @@ export default function Profile() {
     <>
       <h1>Profile Page!</h1>
       <Link href="/">Link to home!</Link>
+      <h2>Need to set up auth</h2>
     </>
   );
 }
